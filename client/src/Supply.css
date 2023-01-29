@@ -1,0 +1,32 @@
+.list{
+    background-color: pink;
+    padding: 30px 30px;
+    cursor:pointer;
+    width: 100%;
+}
+.list:hover{
+    background-color:rgb(51, 161, 160);
+}
+.table {
+margin-left: 38%;
+}
+
+.header {
+    text-align: center;
+    line-height: 0.8;
+    margin-bottom: 50px;
+    margin-top: 90px;
+    
+}
+.header p{
+    width: 100%;
+}
+
+.box1 {
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 5px;
+    box-shadow: 0px 30px 40px -20px var(--grayishBlue);
+    padding: 30px;
+
+}
